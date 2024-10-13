@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.jumbotron{
+    background-color: rgb(234 234 234) ;
+}
